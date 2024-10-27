@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    color: black;
+}
+
+.card {
+    width: 18rem;
+}
+
+.nav-link {
+    color: black
+}
+/* .img {
+    width: 18rem;
+} */
